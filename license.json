@@ -2,7 +2,7 @@
   "valid_keys": [
     {
       "key": "MUSE-MATRIX-DEV-KEY-2024",
-      "expires": "9999-12-31",
+      "expiryDate": "9999-12-31",
       "user": "Developer"
     }
   ]
