@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "valid_keys": [
+  "validKeys": [
     {
       "key": "MUSE-MATRIX-DEV-KEY-2024",
       "expiryDate": "9999-12-31",
