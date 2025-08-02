@@ -7,7 +7,7 @@
       "expiryDate": "9999-12-31",
       "user": "Developer",
       "disabled": false,
-      "permissions": ["youtube_nurturing", "content_creation", "results_management"],
+      "permissions": ["youtube_nurturing", "content_creation", "results_management"]
     }
   ]
 }
